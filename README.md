@@ -5,7 +5,7 @@ Backend for our little pet project on PHP/MySQL and JavaScript.
 
 ## How it works?
 ### About creating new user
-To create new user you need send POST request to `singup.php` file.
+To create new user you need send POST request to [`singup.php`](https://github.com/Artem1yMarenkov/Daily-backend/blob/master/singup.php) file.
 
 This script take two POST params :
 
