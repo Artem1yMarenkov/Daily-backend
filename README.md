@@ -15,8 +15,9 @@ $password = $_POST['password'];
 ```
 After that script start checking of input data. You can meet errors of this type in json:
 
-1.'login lenght is incorrect' error: It means that login lenght is less than 4 or longer than 11.
-2.'password lenght is incorrect' error: It means that password lenght is less than 8 or longer than 50. 
+1. `login lenght is incorrect`: login is less than 4 or longer than 11 symbols.
+
+2. `password lenght is incorrect`: password is less than 8 or longer than 50 symbols. 
 
 
 Then script sends data to db and return report about it in json
