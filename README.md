@@ -24,3 +24,5 @@ After that script start checking of input data. You can meet errors of this type
     It means that login lenght is less than 8 or longer than 50.
 
 Then script sends data to db and return report about it in json
+
+##### To be continued...
